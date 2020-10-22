@@ -2,6 +2,7 @@ package budget;
 
 import java.util.Comparator;
 
+// Comparator for sorting our purchases.
 public class PurchaseDescendingComparator implements Comparator<Purchase> {
     @Override
     public int compare(Purchase t, Purchase t1) {

@@ -1,5 +1,6 @@
 package budget;
 
+// The class for saving every our purchase
 public class Purchase {
     private Category category;
     private String name;

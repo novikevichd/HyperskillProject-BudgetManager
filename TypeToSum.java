@@ -1,5 +1,7 @@
 package budget;
 
+// The class where the relation of the category
+// to the sum of all its purchases will be stored.
 public class TypeToSum implements Comparable<TypeToSum>{
     String type;
     double sum;

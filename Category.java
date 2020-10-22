@@ -1,5 +1,6 @@
 package budget;
 
+// Categories of purchases in budget manager
 public enum Category {
     FOOD(1,"Food"),
     CLOTHES(2, "Clothes"),
